@@ -17,7 +17,7 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-### following Library is used to create this project 
+## following Library is used to create this project 
  npx shadcn@latest init -d components/ui
 
  npm i lucide-react dotenv date-fns react-filepond filepond-plugin-image-exif-orientation filepond-plugin-image-preview framer-motion mapbox-gl lodash react-hook-form zod @hookform/resolvers
