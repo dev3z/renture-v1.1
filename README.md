@@ -41,3 +41,18 @@ npm install @fortawesome/free-brands-svg-icons
 
 npm install @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core
 
+
+//backend
+postgres
+postGIS
+
+npm i express cors dotenv helmet morgan jsonwebtoken multer uuid axios body-parser @terraformer/wkt @aws-sdk/client-s3 @aws-sdk/lib-storage
+
+npm i -D rimraf concurrently nodemon  shx ts-node typescript @types/cors @types/morgan @types/node @types/jsonwebtoken @types/multer @types/terraformer__wkt @types/uuid 
+
+npx tsc --init
+
+npm i prisma @prisma/client
+
+npx prisma init
+
