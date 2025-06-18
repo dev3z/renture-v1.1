@@ -1,92 +1,92 @@
 [
   {
     "id": 1,
-    "country": "United States",
-    "city": "Pasadena",
-    "state": "CA",
-    "address": "123 Colorado Blvd",
-    "postalCode": "91105",
-    "coordinates": "POINT(-118.144516 34.147785)"
+    "country": "India",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "address": "123 MP Nagar Zone 1",
+    "postalCode": "462011",
+    "coordinates": "POINT(77.4126 23.2599)"
   },
   {
     "id": 2,
-    "country": "United States",
-    "city": "Santa Monica",
-    "state": "CA",
-    "address": "456 Ocean Ave",
-    "postalCode": "90401",
-    "coordinates": "POINT(-118.496513 34.013654)"
+    "country": "India",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "address": "456 New Market",
+    "postalCode": "462003",
+    "coordinates": "POINT(77.4006 23.2322)"
   },
   {
     "id": 3,
-    "country": "United States",
-    "city": "Burbank",
-    "state": "CA",
-    "address": "789 Hollywood Way",
-    "postalCode": "91505",
-    "coordinates": "POINT(-118.328661 34.180839)"
+    "country": "India",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "address": "789 Arera Colony",
+    "postalCode": "462016",
+    "coordinates": "POINT(77.4525 23.2315)"
   },
   {
     "id": 4,
-    "country": "United States",
-    "city": "Long Beach",
-    "state": "CA",
-    "address": "101 Pine Ave",
-    "postalCode": "90802",
-    "coordinates": "POINT(-118.192604 33.766720)"
+    "country": "India",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "101 Marine Drive",
+    "postalCode": "400021",
+    "coordinates": "POINT(72.8777 18.9387)"
   },
   {
     "id": 5,
-    "country": "United States",
-    "city": "New York",
-    "state": "NY",
-    "address": "555 Manhattan Ave",
-    "postalCode": "10001",
-    "coordinates": "POINT(-74.005941 40.712784)"
+    "country": "India",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "address": "555 Kolar Road",
+    "postalCode": "462042",
+    "coordinates": "POINT(77.4177 23.1685)"
   },
   {
     "id": 6,
-    "country": "United States",
-    "city": "Malibu",
-    "state": "CA",
-    "address": "888 Malibu Road",
-    "postalCode": "90265",
-    "coordinates": "POINT(-118.774518 34.025922)"
+    "country": "India",
+    "city": "Delhi",
+    "state": "Delhi",
+    "address": "888 Connaught Place",
+    "postalCode": "110001",
+    "coordinates": "POINT(77.2090 28.6139)"
   },
   {
     "id": 7,
-    "country": "United States",
-    "city": "Glendale",
-    "state": "CA",
-    "address": "777 Brand Blvd",
-    "postalCode": "91203",
-    "coordinates": "POINT(-118.254708 34.142508)"
+    "country": "India",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "address": "777 TT Nagar",
+    "postalCode": "462003",
+    "coordinates": "POINT(77.4028 23.2467)"
   },
   {
     "id": 8,
-    "country": "United States",
-    "city": "Torrance",
-    "state": "CA",
-    "address": "555 Torrance Blvd",
-    "postalCode": "90503",
-    "coordinates": "POINT(-118.352575 33.835849)"
+    "country": "India",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "address": "555 MG Road",
+    "postalCode": "560001",
+    "coordinates": "POINT(77.5946 12.9716)"
   },
   {
     "id": 9,
-    "country": "United States",
-    "city": "Miami",
-    "state": "FL",
-    "address": "1234 Ocean Dr",
-    "postalCode": "33139",
-    "coordinates": "POINT(-80.130045 25.782551)"
+    "country": "India",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "address": "1234 FC Road",
+    "postalCode": "411004",
+    "coordinates": "POINT(73.8567 18.5204)"
   },
   {
     "id": 10,
-    "country": "United States",
-    "city": "Beverly Hills",
-    "state": "CA",
-    "address": "789 Rodeo Dr",
-    "postalCode": "90210",
-    "coordinates": "POINT(-118.400356 34.073620)"
+    "country": "India",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "address": "789 Banjara Hills",
+    "postalCode": "500034",
+    "coordinates": "POINT(78.4867 17.3850)"
   }
 ]

@@ -62,3 +62,14 @@ npx prisma migrate reset
 npx prisma migrate dev --name init
 npx prisma migrate dev --name add_postgis_extension
 
+// if any issue
+cd server
+npx prisma migrate reset
+npm run prisma:generate
+npx prisma migrate dev --name init
+npm run seed
+
+
+//frontend 
+Aws Amplify -- connect authon .. using authon provider
+npm i aws-amplify @aws-amplify/ui-react
