@@ -55,4 +55,10 @@ npx tsc --init
 npm i prisma @prisma/client
 
 npx prisma init
+prisma migrate reset
+npm run prisma:generate
+npm install prisma@latest @prisma/client@latest
+npx prisma migrate reset
+npx prisma migrate dev --name init
+npx prisma migrate dev --name add_postgis_extension
 
