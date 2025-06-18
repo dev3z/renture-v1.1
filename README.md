@@ -73,3 +73,5 @@ npm run seed
 //frontend 
 Aws Amplify -- connect authon .. using authon provider
 npm i aws-amplify @aws-amplify/ui-react
+npm i aws-amplify @aws-amplify/ui-react --legacy-peer-deps
+https://docs.amplify.aws/gen1/javascript/tools/libraries/configure-categories/
